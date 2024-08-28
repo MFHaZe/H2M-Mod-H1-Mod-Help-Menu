@@ -1,3 +1,15 @@
+/*  
+ __  __ _____ _   _       _____    
+|  \/  |  ___| | | | __ _|__  /___ 
+| |\/| | |_  | |_| |/ _` | / // _ \
+| |  | |  _| |  _  | (_| |/ /|  __/
+|_|  |_|_|   |_| |_|\__,_/____\___|
+                                                                  
+    Author:         MFHaZe
+    Creation Year:  2023
+    GitHub:         https://github.com/MFHaZe/H2M-Mod-H1-Mod-Help-Menu                                                                 
+*/
+
 game:executecommand("say ^1!Help For Help Menu")
 
 function help()
